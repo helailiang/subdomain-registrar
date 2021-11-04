@@ -23,6 +23,7 @@
   {"name": "etherbase", "version": "1.0"},
   {"name": "gimmethe", "version": "1.0"},
   {"name": "hack", "version": "1.0"},
+  {"name": "hll", "version": "1.0"},
   {"name": "isfund", "version": "1.0"},
   {"name": "isfunds", "version": "1.0"}, 
   {"name": "ismoney", "version": "1.0"},
